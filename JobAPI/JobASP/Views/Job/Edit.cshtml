@@ -1,0 +1,107 @@
+﻿@model JobASP.Models.DTO.AddJobRequestDTO
+
+<div class="container">
+    <br/>
+    <br/>
+    <br/>
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="form-container-edit">
+                <div class="text-center mb-4">
+                    <h5 class="list-group-item">Edit JobID : @Model.JobID</h5>
+                    <hr/>
+                </div>
+                <form asp-action="Edit" asp-controller="Job" method="post" class="form-container-job">
+                    <div class="form-group">
+                        <label asp-for="Title">Title</label>
+                        <input asp-for="Title" class="form-control" placeholder="Nhập tiêu đề công việc">
+                        <span asp-validation-for="Title" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Description">Description</label>
+                        <input asp-for="Description" class="form-control" placeholder="Nhập chi tiết công việc">
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="StartDate">Start Date</label>
+                        <input asp-for="StartDate" class="form-control" type="date">
+                        <span asp-validation-for="StartDate" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                    
+                        <label asp-for="Status">Status</label>
+                        <input asp-for="Status" class="form-control" placeholder="Nhập trạng thái công việc">
+                        <span asp-validation-for="Status" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="StaffID">Staff ID</label>
+                        <input asp-for="StaffID" class="form-control" id="staffIDInput" placeholder="Nhập tên nhân viên" onblur="checkStaffID()">
+                        <span asp-validation-for="StaffID" class="text-danger"></span>
+                    </div>
+                    <div class="form-group text-center">
+                        <button type="submit" class="btn btn-primary">Edit</button>
+                        <a asp-action="Job" asp-controller="Job" class="btn btn-secondary ml-3">Back</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    body {
+        width: 100%;
+    }
+
+    .form-container-edit {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        background-color: #f9f9f9;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+</style>
+
+<script>
+    async function checkStaffID() {
+        const staffID = document.getElementById("staffIDInput").value;
+        if (staffID) {
+            try {
+                const response = await fetch(`/Job/CheckStaffID?staffID=${staffID}`);
+                if (!response.ok) {
+                    const errorMessage = await response.text();
+                    document.querySelector('span[asp-validation-for="StaffID"]').innerText = errorMessage;
+                } else {
+                    document.querySelector('span[asp-validation-for="StaffID"]').innerText = "";
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                document.querySelector('span[asp-validation-for="StaffID"]').innerText = "Error checking Staff ID";
+            }
+        }
+    }
+</script>
+
+
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,92 @@
+﻿@model JobASP.Models.DTO.JobDTO
+
+<div class="container">
+    <br />
+    <br />
+    <br />
+    <br />
+    <div class="form-container-detail">
+        <div class="text-center mb-4">
+            <h5 class="list-group-item">Detail JobID : @Model.JobID</h5>
+            <hr />
+        </div>
+        <div class="info-row">
+            <p class="info-label">Title :</p>
+            <p class="info-value">@Model.Title</p>
+        </div>
+        <div class="info-row">
+            <p class="info-label">Description :</p>
+            <p class="info-value">@Model.Description</p>
+        </div>
+        <div class="info-row">
+            <p class="info-label">Start Date :</p>
+            <p class="info-value">@Model.StartDate.ToString("dd-MM-yyyy")</p>
+        </div>
+        <div class="info-row">
+            <p class="info-label">Status :</p>
+            <p class="info-value">@Model.Status</p>
+        </div>
+        @if (Model.StaffName.Any())
+        {
+            <div class="info-row">
+                <p class="info-label">Staff Names :</p>
+                <p class="info-value">@String.Join(",  ", Model.StaffName)</p>
+            </div>
+        }
+        <div class="text-center mt-3">
+            <a asp-action="Job" asp-controller="Job" class="btn btn-secondary">Back</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    body {
+        width: 100%;
+    }
+
+    .info-row {
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start; /* Adjust alignment for multiline content */
+        margin-bottom: 10px; /* Thêm khoảng cách giữa các hàng */
+    }
+
+    .info-label {
+        font-weight: bold;
+        margin-right: 5px; /* Điều chỉnh khoảng cách giữa nhãn và giá trị */
+        white-space: nowrap; /* Ngăn nhãn xuống hàng */
+        min-width: 120px; /* Đặt chiều rộng tối thiểu cho nhãn để chúng đều nhau */
+    }
+
+    .info-value {
+        flex-grow: 1;
+        word-break: break-word; /* Cho phép mô tả xuống hàng khi nội dung quá dài */
+        white-space: pre-wrap; /* Duy trì khoảng trắng và xuống dòng */
+    }
+
+    .form-container-detail {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        background-color: #f9f9f9;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+
+    .mt-3 {
+        margin-top: 1rem;
+    }
+
+    .mb-4 {
+        margin-bottom: 1.5rem;
+    }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+</style>

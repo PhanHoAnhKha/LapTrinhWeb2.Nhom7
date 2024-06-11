@@ -1,0 +1,143 @@
+﻿@model IEnumerable<JobASP.Models.DTO.JobDTO>
+
+<div class="container">
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="d-flex align-items-center">
+        <div class="search-container">
+            @if (User.Identity.IsAuthenticated && User.IsInRole("Write"))
+            {
+                <a class="btn btn-primary" asp-action="Create" asp-controller="Job">Create</a>
+            }
+            else
+            {
+                <a class="btn btn-primary disabled" asp-action="Create" asp-controller="Job">Create</a>
+            }
+        </div>
+        <div class="form-group ml-3">
+            <form asp-action="SearchJobs" method="get">
+                <input type="text" class="form-control search-input" name="searchString" value="@ViewData["CurrentFilter"]" placeholder="Tìm kiếm công việc..." onkeydown="if (event.key === 'Enter') { this.form.submit(); return false; }">
+            </form>
+        </div>
+    </div>
+    <table class="table mt-3 table-bordered">
+        <thead>
+            <tr>
+                <th>Job ID</th>
+                <th>Title</th>
+                <th>Start Date</th>
+                <th>Status</th>
+                <th>StaffNames</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (!Model.Any())
+            {
+                <tr>
+                    <td colspan="6" class="text-center">No jobs found</td>
+                </tr>
+            }
+            else
+            {
+                @foreach (var job in Model)
+                {
+                    <tr>
+                        <td>@job.JobID</td>
+                        <td>@job.Title</td>
+                        <td>@job.StartDate.ToString("dd-MM-yyyy")</td>
+                        <td id="status-@job.JobID">@job.Status</td>
+                        <td>
+                            @foreach (var staff in job.StaffName)
+                            {
+                                <span>@staff</span>
+                                <br />
+                            }
+                        </td>
+                        <td class="text-center">
+                            @if (User.Identity.IsAuthenticated && User.IsInRole("Write"))
+                            {
+                                <a class="btn btn-primary btn-sm action-btn" asp-controller="Job" asp-action="Edit" asp-route-id="@job.JobID">Edit</a>
+                                <a class="btn btn-info btn-sm action-btn" href="@Url.Action("Detail", new { id = job.JobID })">Detail</a>
+                                <a class="btn btn-danger btn-sm action-btn" href="#" onclick="confirmDelete(@job.JobID)">Delete</a>
+                              
+                            }
+                            else if (User.Identity.IsAuthenticated && User.IsInRole("Read"))
+                            {
+                                <a class="btn btn-primary btn-sm action-btn disabled" asp-controller="Job" asp-action="Edit" asp-route-id="@job.JobID" tabindex="-1" aria-disabled="true">Edit</a>
+                                <a class="btn btn-info btn-sm action-btn" href="@Url.Action("Detail", new { id = job.JobID })">Detail</a>
+                                <a class="btn btn-danger btn-sm action-btn disabled" href="#" tabindex="-1" aria-disabled="true">Delete</a>
+                            }
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+<script>
+    function confirmDelete(id) {
+        if (confirm('Bạn có chắc muốn xóa công việc này không?')) {
+            deleteJob(id);
+        }
+    }
+
+    function deleteJob(id) {
+        fetch(`/Job/DeleteJob/${id}`, {
+            method: 'DELETE'
+        })
+            .then(response => {
+                if (response.ok) {
+                    window.location.reload(); // hoặc cập nhật lại danh sách công việc trên trang
+                } else {
+                    alert('Xóa công việc thất bại. Vui lòng thử lại.');
+                }
+            })
+            .catch(error => {
+                console.error('Lỗi khi gửi yêu cầu DELETE:', error);
+                alert('Có lỗi xảy ra. Vui lòng thử lại.');
+            });
+    }
+
+</script>
+
+<style>
+    body {
+        margin-right: 40px;
+    }
+
+    .table {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .search-container {
+        flex: 1;
+    }
+
+    .search-input {
+        width: 300px;
+    }
+
+    .form-group {
+        margin-left: 10px;
+    }
+
+    th, td {
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .action-btn {
+        margin-bottom: 5px;
+        margin-right: 5px;
+    }
+
+    .disabled {
+        pointer-events: none;
+        opacity: 0.6;
+    }
+</style>

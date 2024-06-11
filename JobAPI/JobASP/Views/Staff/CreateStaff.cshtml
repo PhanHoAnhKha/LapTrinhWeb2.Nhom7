@@ -1,0 +1,72 @@
+﻿@model JobASP.Models.DTO.AddStaffRequestDTO
+
+<div class="container">
+    <br />
+    <br />
+    <br />
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="form-container-create">
+                <div class="text-center mb-4">
+                    <h5 class="list-group-item">Create Staff</h5>
+                    <hr />
+                </div>
+                <form asp-action="CreateStaff" asp-controller="Staff" method="post" class="form-container-staff">
+                    <div class="form-group">
+                        <label asp-for="StaffName">StaffName</label>
+                        <input asp-for="StaffName" class="form-control" placeholder="Nhập tên nhân viên">
+                        <span asp-validation-for="StaffName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email">Email</label>
+                        <input asp-for="Email" class="form-control" placeholder="Nhập email">
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Position">Position</label>
+                        <input asp-for="Position" class="form-control" placeholder="Nhập vị trí">
+                        <span asp-validation-for="Position" class="text-danger"></span>
+                    </div>
+                    <div class="form-group text-center">
+                        <button type="submit" class="btn btn-primary">Create</button>
+                        <a asp-action="Staff" asp-controller="Staff" class="btn btn-secondary ml-3">Trở về</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    body {
+        width: 100%;
+    }
+
+    .form-container-create {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        background-color: #f9f9f9;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+</style>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

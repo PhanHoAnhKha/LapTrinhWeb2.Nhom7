@@ -1,0 +1,219 @@
+.container{
+    margin-left: 10px;
+
+}
+
+.img{
+    margin-left: 75px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.login img {
+    display: block;
+}
+
+form {
+    width: 100%;
+    max-width: 400px; /* Tùy chọn: Giới hạn chiều rộng của form */
+}
+
+
+.search-container {
+    display: flex;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    align-items: center;
+}
+
+.form-control.search-input {
+    width: auto;
+}
+
+.ml-3 {
+    margin-left: 1rem;
+}
+
+
+
+
+.btn-custom {
+    background-color: blue; /* Background màu xanh */
+    color: white; /* Chữ màu trắng */
+    border: 1px solid blue; /* Viền màu xanh */
+    padding: 10px 10px; /* Khoảng cách trong nút */
+    border-radius: 5px; /* Bo tròn các góc */
+    cursor: pointer; /* Con trỏ chuột */
+}
+
+    .btn-custom:hover {
+        background-color: lightblue; /* Màu nền khi hover */
+    }
+
+    .btn-custom:focus {
+        outline: none; /* Không có viền khi focus */
+    }
+
+.message-body {
+    padding: 5px; /* Khoảng cách giữa nội dung và viền */
+}
+
+
+
+
+
+
+
+
+/* Sửa - Xóa - Job */
+.btn-edit-job {
+    background-color: green;
+    color: white;
+    font-size: 12px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Thêm hiệu ứng chuyển đổi */
+}
+
+.btn-edit-job:hover {
+    background-color: darkgreen; /* Màu khi rê chuột vào */
+}
+
+.btn-delete-job {
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Thêm hiệu ứng chuyển đổi */
+}
+
+.btn-delete-job:hover {
+    background-color: darkred; /* Màu khi rê chuột vào */
+}
+/* Sửa - Xóa - Job */
+
+
+/* Sửa - Xóa - Staff */
+.btn-edit-staff {
+    background-color: green;
+    color: white;
+    font-size: 12px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Thêm hiệu ứng chuyển đổi */
+}
+
+.btn-edit-staff:hover {
+    background-color: darkgreen; /* Màu khi rê chuột vào */
+}
+
+.btn-delete-staff {
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Thêm hiệu ứng chuyển đổi */
+}
+
+.btn-delete-staff:hover {
+    background-color: darkred; /* Màu khi rê chuột vào */
+}
+/* Sửa - Xóa - Job */
+
+
+
+
+/* Create Job */
+.modal-job, .modal-staff {
+    display: none; /* Ẩn theo mặc định */
+    position: fixed; /* Ở vị trí cố định */
+    z-index: 1; /* Nằm trên cùng */
+    left: 0;
+    top: 0;
+    width: 100%; /* Chiều rộng đầy đủ */
+    height: 100%; /* Chiều cao đầy đủ */
+    overflow: auto; /* Kích hoạt cuộn nếu cần */
+    background-color: rgb(0,0,0); /* Màu dự phòng */
+    background-color: rgba(0,0,0,0.4); /* Màu đen với độ mờ */
+}
+
+.modal-content-job, .modal-content-staff {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% từ trên xuống và canh giữa */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Có thể nhiều hơn hoặc ít hơn, tùy thuộc vào kích thước màn hình */
+    max-width: 600px; /* Chiều rộng tối đa cho màn hình lớn hơn */
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.form-container-job, .form-container-staff {
+    display: flex;
+    flex-wrap: wrap; /* Cho phép gói các trường biểu mẫu */
+    justify-content: space-between;
+}
+
+.form-group {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.half-width {
+    width: 48%; /* Điều chỉnh chiều rộng cho bố cục hai cột */
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.createjob, .createstaff {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 5px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.createjob:hover, .createstaff:hover {
+    background-color: #0056b3;
+}
+
+/* Create Job */

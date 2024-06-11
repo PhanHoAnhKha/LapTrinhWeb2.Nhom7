@@ -1,0 +1,81 @@
+﻿@model JobASP.Models.DTO.StaffDTO
+
+<div class="container">
+    <br />
+    <br />
+    <br />
+    <br />
+    <div class="form-container-detail">
+        <div class="text-center mb-4">
+            <h5 class="list-group-item">Detail StaffID : @Model.StaffID</h5>
+            <hr />
+        </div>
+        <div class="info-row">
+            <p class="info-label">StaffName :</p>
+            <p class="info-value">@Model.StaffName</p>
+        </div>
+        <div class="info-row">
+            <p class="info-label">Email :</p>
+            <p class="info-value">@Model.Email</p>
+        </div>
+        <div class="info-row">
+            <p class="info-label">Position :</p>
+            <p class="info-value">@Model.Position</p>
+        </div>
+        <div class="text-center mt-3">
+            <a asp-action="Staff" asp-controller="Staff" class="btn btn-secondary">Back</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    body {
+        width: 100%;
+    }
+
+    .info-row {
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        margin-bottom: 10px;
+    }
+
+    .info-label {
+        font-weight: bold;
+        margin-right: 5px;
+        white-space: nowrap;
+        min-width: 120px;
+    }
+
+    .info-value {
+        flex-grow: 1;
+        word-break: break-word;
+        white-space: pre-wrap;
+    }
+
+    .form-container-detail {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        background-color: #f9f9f9;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+
+    .mt-3 {
+        margin-top: 1rem;
+    }
+
+    .mb-4 {
+        margin-bottom: 1.5rem;
+    }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+</style>

@@ -1,0 +1,2069 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\JobASP.bundle.scp.css",
+      "PackagePath": "staticwebassets\\JobASP.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.eot",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.eot"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.svg",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.svg"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.ttf",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.ttf"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff2",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff2"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\css\\icons\\tabler-icons\\tabler-icons.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\css\\icons\\tabler-icons\\tabler-icons.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\css\\index.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\css\\styles.min.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\css\\styles.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\images\\logos\\dark-logo.svg",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\images\\logos\\dark-logo.svg"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\images\\logos\\favicon.png",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\images\\logos\\favicon.png"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\images\\logos\\job.png",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\images\\logos\\job.png"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\images\\profile\\user-1.jpg",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\images\\profile\\user-1.jpg"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\js\\app.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\js\\simplebar.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\js\\simplebar.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\dist\\apexcharts.amd.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\dist\\apexcharts.amd.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\dist\\apexcharts.common.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\dist\\apexcharts.common.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\dist\\apexcharts.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\dist\\apexcharts.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\dist\\apexcharts.esm.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\dist\\apexcharts.esm.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\dist\\apexcharts.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\dist\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\dist\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\dist\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\Bar.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\Bar.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\BarStacked.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\BarStacked.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\BoxCandleStick.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\BoxCandleStick.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\HeatMap.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\HeatMap.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\Line.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\Line.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\Pie.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\Pie.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\Radar.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\Radar.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\Radial.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\Radial.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\RangeBar.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\RangeBar.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\Scatter.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\Scatter.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\Treemap.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\Treemap.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\common\\bar\\DataLabels.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\common\\bar\\DataLabels.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\common\\bar\\Helpers.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\common\\bar\\Helpers.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\common\\circle\\Helpers.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\common\\circle\\Helpers.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\common\\line\\Helpers.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\common\\line\\Helpers.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\common\\treemap\\Helpers.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\charts\\common\\treemap\\Helpers.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\libs\\Treemap-squared.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\libs\\Treemap-squared.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\ar.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\ca.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\cs.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\de.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\de.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\el.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\el.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\en.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\en.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\es.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\es.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\et.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\et.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\fa.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\fi.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\fr.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\he.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\he.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\hi.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\hr.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\hu.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\hy.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\id.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\id.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\it.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\it.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\ja.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\ka.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\ko.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\lt.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\lv.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\nb.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\nl.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\pl.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\pt-br.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\pt.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\rs.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\ru.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\se.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\se.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\sk.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\sl.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\sq.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\th.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\th.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\tr.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\ua.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Animations.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Animations.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Base.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Base.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Core.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Core.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\CoreUtils.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\CoreUtils.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Crosshairs.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Crosshairs.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Data.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Data.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\DataLabels.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\DataLabels.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Events.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Events.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Exports.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Exports.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Fill.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Fill.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Filters.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Filters.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Formatters.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Formatters.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Graphics.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Graphics.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Markers.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Markers.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Range.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Range.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Responsive.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Responsive.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Scales.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Scales.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Series.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Series.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Theme.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Theme.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\TimeScale.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\TimeScale.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\TitleSubtitle.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\TitleSubtitle.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Toolbar.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\Toolbar.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\ZoomPanSelection.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\ZoomPanSelection.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\annotations\\Annotations.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\annotations\\Annotations.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\annotations\\Helpers.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\annotations\\Helpers.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\annotations\\PointsAnnotations.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\annotations\\PointsAnnotations.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\annotations\\XAxisAnnotations.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\annotations\\XAxisAnnotations.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\annotations\\YAxisAnnotations.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\annotations\\YAxisAnnotations.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\axes\\Axes.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\axes\\Axes.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\axes\\AxesUtils.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\axes\\AxesUtils.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\axes\\Grid.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\axes\\Grid.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\axes\\XAxis.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\axes\\XAxis.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\axes\\YAxis.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\axes\\YAxis.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\Dimensions.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\Dimensions.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\Grid.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\Grid.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\Helpers.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\Helpers.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\XAxis.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\XAxis.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\YAxis.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\YAxis.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\helpers\\Destroy.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\helpers\\Destroy.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\helpers\\InitCtxVariables.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\helpers\\InitCtxVariables.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\helpers\\Localization.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\helpers\\Localization.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\helpers\\UpdateHelpers.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\helpers\\UpdateHelpers.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\legend\\Helpers.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\legend\\Helpers.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\legend\\Legend.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\legend\\Legend.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\settings\\Config.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\settings\\Config.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\settings\\Defaults.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\settings\\Defaults.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\settings\\Globals.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\settings\\Globals.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\settings\\Options.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\settings\\Options.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\AxesTooltip.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\AxesTooltip.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Intersect.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Intersect.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Labels.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Labels.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Marker.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Marker.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Position.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Position.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\README.md",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\README.md"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Tooltip.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Tooltip.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Utils.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Utils.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\README.md",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\README.md"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\alert.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\alert.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\base-component.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\base-component.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\base-component.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\base-component.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\button.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\button.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\button.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\carousel.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\collapse.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\data.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\data.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\data.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\data.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dropdown.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\modal.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\modal.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\offcanvas.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\offcanvas.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\offcanvas.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\offcanvas.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\popover.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\popover.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\tab.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\tab.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\toast.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\toast.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\tooltip.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\backdrop.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\backdrop.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\backdrop.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\component-functions.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\component-functions.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\component-functions.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\config.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\config.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\config.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\config.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\focustrap.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\focustrap.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\focustrap.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\index.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\index.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\index.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\index.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\swipe.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\swipe.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\swipe.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\template-factory.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\template-factory.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\dist\\util\\template-factory.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\index.esm.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\index.esm.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\index.umd.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\index.umd.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\alert.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\alert.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\base-component.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\base-component.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\button.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\button.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\carousel.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\collapse.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\dom\\data.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\dom\\data.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\dom\\event-handler.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\dom\\manipulator.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\dropdown.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\modal.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\modal.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\offcanvas.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\offcanvas.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\popover.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\popover.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\scrollspy.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\tab.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\tab.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\toast.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\toast.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\tooltip.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\backdrop.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\component-functions.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\config.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\config.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\focustrap.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\index.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\index.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\sanitizer.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\scrollbar.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\swipe.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\src\\util\\template-factory.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\README.md",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\README.md"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\browsers.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\browsers.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\helpers\\fixture.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\helpers\\fixture.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\integration\\bundle-modularity.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\integration\\bundle-modularity.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\integration\\bundle.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\integration\\bundle.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\integration\\index.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\integration\\index.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\integration\\rollup.bundle-modularity.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\integration\\rollup.bundle-modularity.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\integration\\rollup.bundle.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\integration\\rollup.bundle.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\karma.conf.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\karma.conf.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\alert.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\alert.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\base-component.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\base-component.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\button.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\button.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\carousel.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\carousel.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\collapse.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\collapse.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\dom\\data.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\dom\\data.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\dom\\event-handler.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\dom\\event-handler.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\dom\\manipulator.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\dom\\manipulator.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\dom\\selector-engine.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\dom\\selector-engine.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\dropdown.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\dropdown.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\jquery.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\jquery.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\modal.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\modal.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\offcanvas.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\offcanvas.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\popover.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\popover.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\scrollspy.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\scrollspy.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\tab.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\tab.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\toast.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\toast.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\tooltip.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\tooltip.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\backdrop.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\backdrop.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\component-functions.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\component-functions.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\config.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\config.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\focustrap.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\focustrap.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\index.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\index.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\sanitizer.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\sanitizer.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\scrollbar.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\scrollbar.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\swipe.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\swipe.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\template-factory.spec.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\unit\\util\\template-factory.spec.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\alert.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\alert.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\button.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\button.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\carousel.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\carousel.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\collapse.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\collapse.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\dropdown.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\dropdown.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\modal.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\modal.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\popover.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\popover.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\scrollspy.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\scrollspy.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\tab.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\tab.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\toast.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\toast.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\tooltip.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\js\\tests\\visual\\tooltip.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\package.json"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\jquery\\dist\\core.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\jquery\\dist\\core.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar-core.esm.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar-core.esm.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar-core.esm.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar-core.esm.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar.d.ts",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar.d.ts"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar.esm.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar.esm.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar.esm.js.map",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar.esm.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar.min.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar.umd.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\simplebar\\dist\\simplebar.umd.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\simplebar\\src\\helpers.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\simplebar\\src\\helpers.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\simplebar\\src\\index.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\simplebar\\src\\index.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\simplebar\\src\\scrollbar-width.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\simplebar\\src\\scrollbar-width.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\simplebar\\src\\simplebar.css",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\simplebar\\src\\simplebar.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\libs\\simplebar\\src\\simplebar.js",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\libs\\simplebar\\src\\simplebar.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\scss\\component\\_card.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\scss\\component\\_card.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\scss\\component\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\scss\\component\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\scss\\layouts\\_header.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\scss\\layouts\\_header.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\scss\\layouts\\_layouts.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\scss\\layouts\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\scss\\layouts\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\scss\\layouts\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\scss\\pages\\_dashboard1.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\scss\\pages\\_dashboard1.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\scss\\styles.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\scss\\utilities\\_icon-size.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\scss\\utilities\\_icon-size.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\scss\\variables\\_theme-variables.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\scss\\variables\\_theme-variables.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\scss\\variables\\_variables.scss",
+      "PackagePath": "staticwebassets\\Font - End - API\\assets\\scss\\variables\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\html\\authentication-login.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\html\\authentication-login.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\html\\authentication-register.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\html\\authentication-register.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\html\\ui-alerts.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\html\\ui-alerts.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\html\\ui-buttons.html",
+      "PackagePath": "staticwebassets\\Font - End - API\\html\\ui-buttons.html"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.JobASP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.JobASP.props",
+      "PackagePath": "build\\JobASP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.JobASP.props",
+      "PackagePath": "buildMultiTargeting\\JobASP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.JobASP.props",
+      "PackagePath": "buildTransitive\\JobASP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
