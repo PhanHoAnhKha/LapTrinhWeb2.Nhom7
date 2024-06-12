@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\Folder\\BackEnd\\JobAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{908BB00B-4375-4AF1-B4C1-0106773E8B36}|JobAPI\\JobAPI.csproj|d:\\folder\\backend\\jobapi\\jobapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{908BB00B-4375-4AF1-B4C1-0106773E8B36}|JobAPI\\JobAPI.csproj|solutionrelative:jobapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|solutionrelative:jobasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\views\\staff\\staff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|solutionrelative:jobasp\\views\\staff\\staff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\views\\job\\job.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|solutionrelative:jobasp\\views\\job\\job.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|solutionrelative:jobasp\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908BB00B-4375-4AF1-B4C1-0106773E8B36}|JobAPI\\JobAPI.csproj|d:\\folder\\backend\\jobapi\\jobapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908BB00B-4375-4AF1-B4C1-0106773E8B36}|JobAPI\\JobAPI.csproj|solutionrelative:jobapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{908BB00B-4375-4AF1-B4C1-0106773E8B36}|JobAPI\\JobAPI.csproj|d:\\folder\\backend\\jobapi\\jobapi\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{908BB00B-4375-4AF1-B4C1-0106773E8B36}|JobAPI\\JobAPI.csproj|solutionrelative:jobapi\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908BB00B-4375-4AF1-B4C1-0106773E8B36}|JobAPI\\JobAPI.csproj|d:\\folder\\backend\\jobapi\\jobapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908BB00B-4375-4AF1-B4C1-0106773E8B36}|JobAPI\\JobAPI.csproj|solutionrelative:jobapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\views\\staff\\editstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\views\\staff\\createstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|solutionrelative:jobasp\\views\\staff\\createstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|solutionrelative:jobasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\views\\job\\job.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|solutionrelative:jobasp\\views\\job\\job.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|solutionrelative:jobasp\\views\\job\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\views\\staff\\staff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|solutionrelative:jobasp\\views\\staff\\staff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\views\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|solutionrelative:jobasp\\views\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -73,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|solutionrelative:jobasp\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|solutionrelative:jobasp\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -109,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|d:\\folder\\backend\\jobapi\\jobasp\\models\\dto\\addjobrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E29CACE-3490-4503-ACC1-5C2A3476BED8}|JobASP\\JobASP.csproj|solutionrelative:jobasp\\models\\dto\\addjobrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{908BB00B-4375-4AF1-B4C1-0106773E8B36}|JobAPI\\JobAPI.csproj|d:\\folder\\backend\\jobapi\\jobapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{908BB00B-4375-4AF1-B4C1-0106773E8B36}|JobAPI\\JobAPI.csproj|solutionrelative:jobapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{908BB00B-4375-4AF1-B4C1-0106773E8B36}|JobAPI\\JobAPI.csproj|d:\\folder\\backend\\jobapi\\jobapi\\models\\domain\\jobstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -182,62 +182,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "JobController.cs",
-              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Controllers\\JobController.cs",
-              "RelativeDocumentMoniker": "JobASP\\Controllers\\JobController.cs",
-              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Controllers\\JobController.cs",
-              "RelativeToolTip": "JobASP\\Controllers\\JobController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAiwEUAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "JobAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "JobAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCUAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T18:20:17.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateStaff.cshtml",
-              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Staff\\CreateStaff.cshtml",
-              "RelativeDocumentMoniker": "JobASP\\Views\\Staff\\CreateStaff.cshtml",
-              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Staff\\CreateStaff.cshtml",
-              "RelativeToolTip": "JobASP\\Views\\Staff\\CreateStaff.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T08:49:06.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditStaff.cshtml",
-              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Staff\\EditStaff.cshtml",
-              "RelativeDocumentMoniker": "JobASP\\Views\\Staff\\EditStaff.cshtml",
-              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Staff\\EditStaff.cshtml",
-              "RelativeToolTip": "JobASP\\Views\\Staff\\EditStaff.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T01:26:06.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StaffController.cs",
-              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobAPI\\Controllers\\StaffController.cs",
-              "RelativeDocumentMoniker": "JobAPI\\Controllers\\StaffController.cs",
-              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobAPI\\Controllers\\StaffController.cs",
-              "RelativeToolTip": "JobAPI\\Controllers\\StaffController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEMAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T18:47:14.241Z",
+              "WhenOpened": "2024-06-10T18:36:31.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "JobASP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "JobASP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAmwLQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T18:47:21.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "JobASP\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "JobASP\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T18:20:06.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Job.cshtml",
+              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Job\\Job.cshtml",
+              "RelativeDocumentMoniker": "JobASP\\Views\\Job\\Job.cshtml",
+              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Job\\Job.cshtml",
+              "RelativeToolTip": "JobASP\\Views\\Job\\Job.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T20:19:16.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "JobController.cs",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobAPI\\Controllers\\JobController.cs",
               "RelativeDocumentMoniker": "JobAPI\\Controllers\\JobController.cs",
@@ -250,32 +251,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Job.cshtml",
-              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Job\\Job.cshtml",
-              "RelativeDocumentMoniker": "JobASP\\Views\\Job\\Job.cshtml",
-              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Job\\Job.cshtml",
-              "RelativeToolTip": "JobASP\\Views\\Job\\Job.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAeAAAA",
+              "DocumentIndex": 1,
+              "Title": "Staff.cshtml",
+              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Staff\\Staff.cshtml",
+              "RelativeDocumentMoniker": "JobASP\\Views\\Staff\\Staff.cshtml",
+              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Staff\\Staff.cshtml",
+              "RelativeToolTip": "JobASP\\Views\\Staff\\Staff.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T20:19:16.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "JobASP\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "JobASP\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAAC0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T18:47:21.646Z",
+              "WhenOpened": "2024-06-10T22:57:51.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobAPI\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "JobAPI\\Controllers\\StaffController.cs",
+              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobAPI\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "JobAPI\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:47:14.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditStaff.cshtml",
+              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Staff\\EditStaff.cshtml",
+              "RelativeDocumentMoniker": "JobASP\\Views\\Staff\\EditStaff.cshtml",
+              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Staff\\EditStaff.cshtml",
+              "RelativeToolTip": "JobASP\\Views\\Staff\\EditStaff.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T01:26:06.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateStaff.cshtml",
+              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Staff\\CreateStaff.cshtml",
+              "RelativeDocumentMoniker": "JobASP\\Views\\Staff\\CreateStaff.cshtml",
+              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Staff\\CreateStaff.cshtml",
+              "RelativeToolTip": "JobASP\\Views\\Staff\\CreateStaff.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T08:49:06.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "JobASP\\Controllers\\JobController.cs",
+              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Controllers\\JobController.cs",
+              "RelativeToolTip": "JobASP\\Controllers\\JobController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:20:17.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "JobASP\\Views\\Shared\\Error.cshtml",
@@ -287,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "JobASP\\Controllers\\LoginController.cs",
@@ -299,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "StaffController.cs",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Controllers\\StaffController.cs",
               "RelativeDocumentMoniker": "JobASP\\Controllers\\StaffController.cs",
@@ -311,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "JobAPI\\Data\\AppDbContext.cs",
@@ -323,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "RegisterDTO.cs",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Models\\DTO\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "JobASP\\Models\\DTO\\RegisterDTO.cs",
@@ -335,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Job\\Detail.cshtml",
               "RelativeDocumentMoniker": "JobASP\\Views\\Job\\Detail.cshtml",
@@ -347,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "JobDTO.cs",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Models\\DTO\\JobDTO.cs",
               "RelativeDocumentMoniker": "JobASP\\Models\\DTO\\JobDTO.cs",
@@ -359,19 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Staff.cshtml",
-              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Staff\\Staff.cshtml",
-              "RelativeDocumentMoniker": "JobASP\\Views\\Staff\\Staff.cshtml",
-              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Staff\\Staff.cshtml",
-              "RelativeToolTip": "JobASP\\Views\\Staff\\Staff.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T22:57:51.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Job\\Create.cshtml",
               "RelativeDocumentMoniker": "JobASP\\Views\\Job\\Create.cshtml",
@@ -383,19 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Login\\Login.cshtml",
-              "RelativeDocumentMoniker": "JobASP\\Views\\Login\\Login.cshtml",
-              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Login\\Login.cshtml",
-              "RelativeToolTip": "JobASP\\Views\\Login\\Login.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADEAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T18:20:06.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Login\\Register.cshtml",
               "RelativeDocumentMoniker": "JobASP\\Views\\Login\\Register.cshtml",
@@ -407,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Models\\DTO\\LoginDTO.cs",
               "RelativeDocumentMoniker": "JobASP\\Models\\DTO\\LoginDTO.cs",
@@ -419,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Views\\Job\\Edit.cshtml",
               "RelativeDocumentMoniker": "JobASP\\Views\\Job\\Edit.cshtml",
@@ -431,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "JobASP\\Models\\ErrorViewModel.cs",
@@ -443,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Program.cs",
               "RelativeDocumentMoniker": "JobASP\\Program.cs",
@@ -455,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\appsettings.json",
               "RelativeDocumentMoniker": "JobASP\\appsettings.json",
@@ -467,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "index.css",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\wwwroot\\Font - End - API\\assets\\css\\index.css",
               "RelativeDocumentMoniker": "JobASP\\wwwroot\\Font - End - API\\assets\\css\\index.css",
@@ -479,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "StaffDTO.cs",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Models\\DTO\\StaffDTO.cs",
               "RelativeDocumentMoniker": "JobASP\\Models\\DTO\\StaffDTO.cs",
@@ -491,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "AddStaffRequestDTO.cs",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Models\\DTO\\AddStaffRequestDTO.cs",
               "RelativeDocumentMoniker": "JobASP\\Models\\DTO\\AddStaffRequestDTO.cs",
@@ -503,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "AddJobRequestDTO.cs",
               "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobASP\\Models\\DTO\\AddJobRequestDTO.cs",
               "RelativeDocumentMoniker": "JobASP\\Models\\DTO\\AddJobRequestDTO.cs",
@@ -512,18 +526,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T05:24:05.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Folder\\BackEnd\\JobAPI\\JobAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "JobAPI\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Folder\\BackEnd\\JobAPI\\JobAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "JobAPI\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T18:36:31.451Z"
             },
             {
               "$type": "Document",

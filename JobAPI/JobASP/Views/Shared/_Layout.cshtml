@@ -29,22 +29,67 @@
                             <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
                             <span class="hide-menu">Quản Lý</span>
                         </li>
+
                         <li class="sidebar-item">
-                            <a class="sidebar-link" href="@Url.Action("Job", "Job")" aria-expanded="false">
-                                <span>
-                                    <i class="fa-regular fa-folder-closed fa-xl" style="color: #000000;"></i>
-                                </span>
-                                <span class="hide-menu">Job</span>
-                            </a>
+                            @if (User.Identity.IsAuthenticated && User.IsInRole("Write"))
+                            {
+                                <a class="sidebar-link" href="@Url.Action("Job", "Job")" aria-expanded="false">
+                                    <span>
+                                        <i class="fa-regular fa-folder-closed fa-xl" style="color: #000000;"></i>
+                                    </span>
+                                    <span class="hide-menu">Job</span>
+                                </a>
+                            }
+                            else if (User.Identity.IsAuthenticated && User.IsInRole("Read"))
+                            {
+                                <a class="sidebar-link disabled-link" href="javascript:void(0)" aria-expanded="false">
+                                    <span>
+                                        <i class="fa-regular fa-folder-closed fa-xl" style="color: #000000;"></i>
+                                    </span>
+                                    <span class="hide-menu">Job</span>
+                                </a>
+                            }
+                            else
+                            {
+                                <a class="sidebar-link disabled-link" href="javascript:void(0)" aria-expanded="false">
+                                    <span>
+                                        <i class="fa-regular fa-folder-closed fa-xl" style="color: #000000;"></i>
+                                    </span>
+                                    <span class="hide-menu">Job</span>
+                                </a>
+                            }
                         </li>
+
                         <li class="sidebar-item">
-                            <a class="sidebar-link" href="@Url.Action("Staff", "Staff")" aria-expanded="false">
-                                <span>
-                                    <i class="fa-regular fa-circle-user fa-xl" style="color: #1d1b1b;"></i>
-                                </span>
-                                <span class="hide-menu">Staff</span>
-                            </a>
+                            @if (User.Identity.IsAuthenticated && User.IsInRole("Write"))
+                            {
+                                <a class="sidebar-link" href="@Url.Action("Staff", "Staff")" aria-expanded="false">
+                                    <span>
+                                        <i class="fa-regular fa-circle-user fa-xl" style="color: #1d1b1b;"></i>
+                                    </span>
+                                    <span class="hide-menu">Staff</span>
+                                </a>
+                            }
+                            else if (User.Identity.IsAuthenticated && User.IsInRole("Read"))
+                            {
+                                <a class="sidebar-link disabled-link" href="javascript:void(0)" aria-expanded="false">
+                                    <span>
+                                        <i class="fa-regular fa-circle-user fa-xl" style="color: #1d1b1b;"></i>
+                                    </span>
+                                    <span class="hide-menu">Staff</span>
+                                </a>
+                            }
+                            else
+                            {
+                                <a class="sidebar-link disabled-link" href="javascript:void(0)" aria-expanded="false">
+                                    <span>
+                                        <i class="fa-regular fa-circle-user fa-xl" style="color: #1d1b1b;"></i>
+                                    </span>
+                                    <span class="hide-menu">Staff</span>
+                                </a>
+                            }
                         </li>
+
                         <li class="nav-small-cap">
                             <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
                             <span class="hide-menu">Tài Khoản</span>
@@ -67,6 +112,9 @@
                         </li>
                     </ul>
                 </nav>
+
+
+
             </div>
         </aside>
         <div class="body-wrapper">
@@ -132,3 +180,11 @@
     </div>
 </body>
 </html>
+
+<style>
+    .disabled-link {
+        pointer-events: none;
+        cursor: default;
+        color: #888; /* Màu xám nhạt để chỉ trạng thái không khả dụng */
+    }
+</style>

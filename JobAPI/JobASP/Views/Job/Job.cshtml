@@ -62,15 +62,13 @@
                                 <a class="btn btn-primary btn-sm action-btn" asp-controller="Job" asp-action="Edit" asp-route-id="@job.JobID">Edit</a>
                                 <a class="btn btn-info btn-sm action-btn" href="@Url.Action("Detail", new { id = job.JobID })">Detail</a>
                                 <a class="btn btn-danger btn-sm action-btn" href="#" onclick="confirmDelete(@job.JobID)">Delete</a>
-                              
                             }
                             else if (User.Identity.IsAuthenticated && User.IsInRole("Read"))
                             {
-                                <a class="btn btn-primary btn-sm action-btn disabled" asp-controller="Job" asp-action="Edit" asp-route-id="@job.JobID" tabindex="-1" aria-disabled="true">Edit</a>
                                 <a class="btn btn-info btn-sm action-btn" href="@Url.Action("Detail", new { id = job.JobID })">Detail</a>
-                                <a class="btn btn-danger btn-sm action-btn disabled" href="#" tabindex="-1" aria-disabled="true">Delete</a>
                             }
                         </td>
+
                     </tr>
                 }
             }
