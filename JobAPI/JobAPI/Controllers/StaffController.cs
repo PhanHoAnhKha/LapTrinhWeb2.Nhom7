@@ -65,7 +65,7 @@ namespace JobAPI.Controllers
         }
 
         [HttpPost("add-staff")]
-        [Authorize]
+        [Authorize(Roles = "Write")]
         public IActionResult AddStaff([FromBody] AddStaffRequestDTO addStaffRequestDTO)
         {
             try
@@ -91,7 +91,7 @@ namespace JobAPI.Controllers
 
 
         [HttpPut("update-staff-by-id/{id}")]
-        [Authorize(Roles = "Read")]
+        [Authorize(Roles = "Write")]
         public IActionResult UpdateStaffById(int id, [FromBody] AddStaffRequestDTO staffDTO)
         {
             try
@@ -113,7 +113,7 @@ namespace JobAPI.Controllers
 
        
         [HttpDelete("delete-staff-by-id/{id}")]
-        [Authorize(Roles = "Read")]
+        [Authorize(Roles = "Write")]
         public IActionResult DeleteStaffById(int id)
         {
             try

@@ -150,3 +150,4 @@ D:\Folder\BackEnd\JobAPI\JobAPI\bin\Debug\net8.0\Serilog.Settings.Configuration.
 D:\Folder\BackEnd\JobAPI\JobAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
 D:\Folder\BackEnd\JobAPI\JobAPI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
 D:\Folder\BackEnd\JobAPI\JobAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Folder\BackEnd\JobAPI\JobAPI\obj\Debug\net8.0\JobAPI.sourcelink.json

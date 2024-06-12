@@ -144,3 +144,4 @@ D:\Folder\BackEnd\JobAPI\JobASP\bin\Debug\net8.0\Serilog.Sinks.Console.dll
 D:\Folder\BackEnd\JobAPI\JobASP\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
 D:\Folder\BackEnd\JobAPI\JobASP\bin\Debug\net8.0\Serilog.Sinks.File.dll
 D:\Folder\BackEnd\JobAPI\JobASP\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Folder\BackEnd\JobAPI\JobASP\obj\Debug\net8.0\JobASP.sourcelink.json
